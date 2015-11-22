@@ -1,0 +1,6 @@
+framework module Pods_AlamofireLeakage {
+  umbrella header "Pods-AlamofireLeakage-umbrella.h"
+
+  export *
+  module * { export * }
+}
